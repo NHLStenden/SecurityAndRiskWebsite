@@ -1,6 +1,7 @@
 <html>
 <head>
   <title>Hello Intranet!</title>
+  <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
 <P> Intranet :: It works! </p>
